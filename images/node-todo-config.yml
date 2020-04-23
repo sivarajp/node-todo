@@ -1,0 +1,6 @@
+source:
+  git:
+    url: https://github.com/ykhadilkar/node-todo
+    revision: master
+image:
+  tag: index.docker.io/ykhadilkar/node-todo
