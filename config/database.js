@@ -1,3 +1,3 @@
 module.exports = {
-  localUrl: 'mongodb://localhost:27017/meanstacktutorials'
+  localUrl: 'mongodb://mongodb:27017/meanstacktutorials'
 };
